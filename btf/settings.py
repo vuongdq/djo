@@ -40,8 +40,7 @@ INSTALLED_APPS = [
     'product',
     'rest_framework',
     'crawl',
-    'hocsinh',
-]
+  ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
